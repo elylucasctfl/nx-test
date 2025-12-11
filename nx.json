@@ -4,14 +4,14 @@
     "projects": ["awesome", "utils"],
     "version": {
       "conventionalCommits": true,
-      "preserveMatchingDependencyRanges": false,
-      "git": {
-        "push": true
-      }
+      "preserveMatchingDependencyRanges": false
     },
     "projectsRelationship": "fixed",
     "changelog": {
       "createRelease": "github"
+    },
+    "git": {
+      "push": true
     }
   }
 }
