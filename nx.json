@@ -1,0 +1,14 @@
+{
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "release": {
+    "projects": ["awesome", "utils"],
+    "version": {
+      "conventionalCommits": true,
+      "preserveMatchingDependencyRanges": false
+    },
+    "projectsRelationship": "fixed",
+    "changelog": {
+      "createRelease": true
+    }
+  }
+}
