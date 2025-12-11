@@ -3,8 +3,7 @@
   "release": {
     "projects": ["awesome", "utils"],
     "version": {
-      "conventionalCommits": true,
-      "preserveMatchingDependencyRanges": false
+      "conventionalCommits": true
     },
     "projectsRelationship": "fixed",
     "changelog": {
