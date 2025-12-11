@@ -1,6 +1,6 @@
 {
   "name": "@elylucasctfl/awesome",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@elylucasctfl/utils": "^0.0.1"
+    "@elylucasctfl/utils": "^0.0.2"
   }
 }
