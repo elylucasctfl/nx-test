@@ -1,3 +1,13 @@
+## 0.0.6 (2025-12-11)
+
+### 🩹 Fixes
+
+- **@elylucasctfl/awesome:** fix stuff5 ([6d0c472](https://github.com/elylucasctfl/nx-test/commit/6d0c472))
+
+### ❤️ Thank You
+
+- Ely Lucas
+
 ## 0.0.5 (2025-12-11)
 
 ### 🩹 Fixes
