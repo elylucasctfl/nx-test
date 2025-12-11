@@ -2,13 +2,16 @@
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "release": {
     "projects": ["awesome", "utils"],
+    "git": {
+      "push": true
+    },
     "version": {
       "conventionalCommits": true,
       "preserveMatchingDependencyRanges": false
     },
     "projectsRelationship": "fixed",
     "changelog": {
-      "createRelease": true
+      "createRelease": "github"
     }
   }
 }
