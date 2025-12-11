@@ -1,3 +1,13 @@
+## 0.0.4 (2025-12-11)
+
+### 🩹 Fixes
+
+- **@elylucasctfl/awesome:** fix stuff3 ([b2ed600](https://github.com/elylucasctfl/nx-test/commit/b2ed600))
+
+### ❤️ Thank You
+
+- Ely Lucas
+
 ## 0.0.3 (2025-12-11)
 
 ### 🩹 Fixes
