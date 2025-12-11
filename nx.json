@@ -3,11 +3,14 @@
   "release": {
     "projects": ["awesome", "utils"],
     "version": {
-      "conventionalCommits": true
+      "conventionalCommits": true,
+      "preserveMatchingDependencyRanges": false
     },
     "projectsRelationship": "fixed",
     "changelog": {
-      "createRelease": "github"
+      "workspaceChangelog": {
+        "createRelease": "github"
+      }
     },
     "git": {
       "push": true
